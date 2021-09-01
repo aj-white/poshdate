@@ -44,7 +44,8 @@ print(poshdate.from_datetime(example_date)) # 21st April 2021
 
 Poshdate provides a human readable date in the ordinal format.
 This is intended to be of use in report and document generation where
-an approximation of a handwritten style of date is seen as nicer and a bit classier.
+an approximation of a handwritten style of date is seen as nicer and a bit classier than the standard output.
+
 In other words
 
 `21st January 2020` looks better on the page than `21 January 2020` or `21/01/2020`
