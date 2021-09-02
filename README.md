@@ -58,4 +58,4 @@ There are several other packages that do provide functionality to create ordinal
 - [pendulum](https://github.com/sdispater/pendulum)
 - [arrow](https://github.com/arrow-py/arrow)
 
-However, these provide a lot of extra functionality that may well be beyond the needs of a user requiring a simple ordinal style date, in addition to having several additional dependancies.
+However, these provide a lot of extra functionality that may well be beyond the needs of a user requiring a simple ordinal style date, in addition to having several additional dependencies.
