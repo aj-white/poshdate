@@ -1,7 +1,11 @@
 # poshdate
 
+![PyPI](https://img.shields.io/pypi/v/poshdate)
+![PyPI - Wheel](https://img.shields.io/pypi/wheel/poshdate)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/poshdate)
 ![GitHub](https://img.shields.io/github/license/aj-white/poshdate)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
 
 
 Poshdate is a python package that creates ordinal dates from python `datetime` and `date` objects:
